@@ -27,6 +27,7 @@ import java.util.logging.Logger;
 // Test comment 3.
 
 // PR_test_1
+// PR_test_2
 public class GCViewer {
     private static final Logger LOGGER = Logger.getLogger(GCViewer.class.getName());
     private static final int EXIT_OK = 0;
